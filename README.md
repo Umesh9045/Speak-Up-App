@@ -1,2 +1,2 @@
-# Text-To-Speech-App
+# SpeakUp-App
 Jetpack-Compose (Koltin) Android App
